@@ -19,14 +19,14 @@ Intro to Generative Art from Handcraft to Digital Workshop at Queens Museum
  
 
 * 2:40pm - 4pm : Coding Workshop
-* Download Software: Processing
-* Warm Up: Coding Exercise
+ * Download Software: Processing
+ * Warm Up: Coding Exercise
   * recreate masterpiece in code
   * simple mouse interaction
   * popular pattern: Polka Dots
 
-* Challenge: Recursion 1/2/3
-* Big Project: Make Workshop Poster! 
+ * Challenge: Recursion 1/2/3
+ * Big Project: Make Workshop Poster! 
  
  
  # Resource
